@@ -14,7 +14,7 @@ import com.devsuperior.dsvendas.entities.Seller;
 import com.devsuperior.dsvendas.repositories.SellerRepository;
 
 /**
- * @author José Eustaquio
+ * @author Jose Eustaquio Muniz
  *
  */
 @Service
