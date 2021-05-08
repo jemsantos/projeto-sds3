@@ -16,4 +16,4 @@ const NavBar = () => {
   );
 };
 
-export default NavBar;
+export default NavBar; PAREI NO MIN 22 - COMMIT: Home, navigation
